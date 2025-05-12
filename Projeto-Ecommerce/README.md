@@ -1,7 +1,9 @@
-# Refinando um design conceitual de Banco de Dados
+# 📦 Refinando um design conceitual de Banco de Dados
+## E-Commerce Modelo de Banco de Dados
+
 - Primeiro desafio de projeto do curso "Formação SQL Database Specialist" <a href="https://www.dio.me/" target="__blank">da DIO.</a>
 
-# 📦 E-Commerce - Modelo de Banco de Dados
+## 📚 Descrição Geral
 
 Este projeto representa o modelo de banco de dados relacional para uma aplicação de E-Commerce. O diagrama inclui tabelas para clientes, produtos, fornecedores, pedidos, formas de pagamento, entre outros componentes essenciais para o funcionamento de uma plataforma de vendas online.
 
